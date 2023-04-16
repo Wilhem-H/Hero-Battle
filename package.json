@@ -2,7 +2,7 @@
   "name": "css-in-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Wilhem-H.github.io/Hero-Battle",
+  "homepage": "https://wilhem-h.github.io/Hero-Battle",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
