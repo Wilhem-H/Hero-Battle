@@ -5,6 +5,7 @@ const Img = styled.img`
     height: 100px;
     align-self: center;
     margin: 20px
+    
 `;
 
 

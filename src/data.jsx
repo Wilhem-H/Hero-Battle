@@ -1,5 +1,5 @@
 const hero = [
-    { img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT485VY3LumG4ruWWUQZQEtJQTQEsdB7A9pCw&usqp=CAU", name:"Batman" , film:"Batman", score :0},
+    {img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT485VY3LumG4ruWWUQZQEtJQTQEsdB7A9pCw&usqp=CAU", name:"Batman" , film:"Batman", score :0},
     {img:"https://resize-public.ladmedia.fr/img/var/public/storage/images/dossiers/musique-cine-series/photos/suicide-squad-pourquoi-harley-quinn-margot-robbie-est-notre-personnage-prefere-974842/974875/13287481-1-fre-FR/image.jpg", name:"Harley Quinn", film:"Batman/Joker", score :0},
     {img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PTGsPgOOyq6zNAYl1S9YmotIDUC1WMTLRQ&usqp=CAU", name:"Joker", film:"Batman/Joker", score :0},
     {img:"https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/loisirs/cinema/news/thor-chris-hemsworth-remplace-par-une-femme-2734671/48209031-1-fre-FR/Thor-Chris-Hemsworth-remplace-par-une-femme.jpg", name:"Thor", film:"Thor/Avengers", score :0},
